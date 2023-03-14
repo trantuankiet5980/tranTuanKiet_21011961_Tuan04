@@ -125,3 +125,37 @@ table {
     padding: 5px 5px;
     font-size: 18px;
 }
+.hinh-1 img {
+    border-radius: 5px;
+}
+.hinhanh-1 {
+    margin-top: 50px;
+}
+.ben {
+    margin-top: -45px;
+}
+.name {
+    display: flex;
+    width: 150px;
+    background-color: rgba(75, 72, 72, 0.5);
+    padding: 10px 10px;
+    position: absolute;
+    top: 180px;
+    left: 190px;
+    border-radius: 5px;
+}
+.mic-k {
+    position: relative;
+    top: 45px;
+    left: 750px;
+    width: 25px;
+    background-color: rgba(75, 72, 72, 0.5);
+    padding: 8px;
+    border-radius: 5px;
+}
+.name > div > i {
+    color: #02ec21;
+}
+.name > div {
+    color: #fff;
+}
