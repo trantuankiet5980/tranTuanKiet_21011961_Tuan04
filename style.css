@@ -302,7 +302,9 @@ table {
     margin-left: 70px;
     font-size: 16px;
     margin-top: -10px;
+    background-color: rgba(240, 232, 232, 0.5);
 }
+
 .end-ty {
     display: flex;
     color:rgba(75, 72, 72, 0.5);
