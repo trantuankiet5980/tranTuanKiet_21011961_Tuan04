@@ -159,3 +159,38 @@ table {
 .name > div {
     color: #fff;
 }
+/*  */
+
+.person {
+    display: flex;
+    justify-content: space-around;
+}
+
+.name1 {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 38px;
+    left: 13px;
+}
+.name1 > div {
+    color: #fff;
+}
+.name1 > div > i{
+    color:#02ec21;
+}
+.h1 {
+    background-color: rgba(75, 72, 72, 0.5);
+    border-radius: 5px;
+    padding: 7px 5px;
+}
+.name-1 {
+    display: flex;
+    font-size: 12px;
+}
+.mic {
+    background-color: rgba(75, 72, 72, 0.5);
+    border-radius: 5px;
+    padding: 5px 7px;
+    margin-right: 25px;
+}
