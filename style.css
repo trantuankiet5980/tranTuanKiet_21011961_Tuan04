@@ -67,4 +67,61 @@ table {
     align-items: center;
     justify-content: space-around;
 }
+/* content */
+.content{
+    flex: 8;
+    margin: 40px 30px;
+}
+.meet {
+    display: flex;
+    justify-content: space-between;
+}
+.title {
+    font-size: 30px;
+    font-weight: 900;
+}
+.time1 {
+    display: flex;
+    border: 2.5px solid #f07a7a;
+    border-radius: 20px;
+    padding: 0 12px;
+    justify-content: space-around;
+}
+.time1 > div {
+    font-size: 18px;
+    padding: 7px 0;
+    color: #f07a7a;
+}
+.icon-stop {
+    color: #f07a7a;
+}
 
+.time2 {
+    display: flex;
+    width: 350px;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.internal {
+    display: flex;
+    background-color: #f07a7a;
+    padding: 7px 10px;
+    justify-content: space-around;
+    border-radius: 20px;
+    color: #fff;
+}
+.user {
+    color: black;
+    margin-right: 5px;
+}
+.sep {
+    display: flex;
+    padding: 7px 5px;
+}
+.sep-02 {
+    font-size: 15px;
+}
+.am {
+    padding: 5px 5px;
+    font-size: 18px;
+}
