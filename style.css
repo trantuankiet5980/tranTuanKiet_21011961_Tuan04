@@ -262,3 +262,58 @@ table {
     font-size: 17px;
 }
 /* end chat */
+.end-chat {
+    margin: 40px 40px;
+}
+.pchat {
+    margin-bottom: 30px;
+    font-size:30px;
+    font-weight: 900;
+}
+.ds-chat {
+    margin-bottom: 30px;
+}
+.name-chat {
+    display: flex;
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+.n-chat {
+    position: relative;
+    top: 10px;
+    font-weight: 800;
+    margin-left: 10px;
+}
+.n-time {
+    position: relative;
+    top: 10px;
+    color:rgba(75, 72, 72, 0.5);
+    margin-left: 10px;
+}
+.title-chat {
+    margin-left: 70px;
+    font-size: 19px;
+    margin-top: -10px;
+}
+.end-ty {
+    display: flex;
+    color:rgba(75, 72, 72, 0.5);
+    margin-top: -20px;
+}
+.end-add {
+    background-color:rgba(240, 232, 232, 0.5);
+    flex: 0.5;
+    margin: auto;
+    padding: 15px;
+}
+.typing {
+    display: flex;
+    background-color:rgba(240, 232, 232, 0.5);
+    flex: 5;
+    margin-left: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.end-send {
+    flex: 1;
+}
