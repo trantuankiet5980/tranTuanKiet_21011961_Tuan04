@@ -118,6 +118,7 @@ table {
     color: black;
     margin-right: 5px;
 }
+
 .sep {
     display: flex;
     padding: 7px 5px;
@@ -145,7 +146,7 @@ table {
     padding: 10px 10px;
     position: absolute;
     top: 195px;
-    left: 170px;
+    left: 200px;
     border-radius: 5px;
 }
 .ti-control-record {
